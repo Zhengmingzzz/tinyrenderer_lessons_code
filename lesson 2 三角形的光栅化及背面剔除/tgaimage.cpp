@@ -1,4 +1,4 @@
-#include <iostream>
+nclude <iostream>
 #include <fstream>
 #include <string.h>
 #include <time.h>
